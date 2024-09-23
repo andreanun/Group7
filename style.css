@@ -112,3 +112,27 @@ time {
     color: #666;
     margin-top: 5px;
 }
+
+.main{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.GOAT{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.Page1{
+    background-image: url("https://media.istockphoto.com/id/1471217278/photo/baseball-ball-in-a-grass-of-baseball-arena-stadium.jpg?s=612x612&w=0&k=20&c=OaKZFgu2C9P_rVQnGZYB31pf1YYMk6I5Qoe3ia5H7QM=");
+    background-size: cover;
+}
+.author{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.infoBaseball{
+    font-size: 28px;
+    font-weight: bold;
+}
