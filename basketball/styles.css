@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+
+body {
+    background-color:  cadetblue;
+}    
+
+img {
+    border: -2px;
+}
+    
+.player-content {
+    display: flex;
+    gap: 20px;
+    margin: 30px;
+}
+
+.player-info {
+    flex-grow: 1;
+}
